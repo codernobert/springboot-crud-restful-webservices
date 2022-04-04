@@ -1,6 +1,6 @@
 # springboot-crud-restful-webservices
 ## YouYube Video
-Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial at https://youtu.be/QXFgzomuDOg
+Spring Boot, MySQL, JPA, Hibernate Restful CRUD API 
 
 ## Blog post
-https://www.javaguides.net/2020/04/spring-boot-mysql-jpa-hibernate-restful-crud-api-tutorial.html
+
